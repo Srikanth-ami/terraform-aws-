@@ -42,4 +42,3 @@ variable "ec2_instance_availability_zone" {}
 #variable "subnet_id" {}
 variable "iam_instance_profile" {}
 variable "instance_tag" {}
-#variable "env" {}
