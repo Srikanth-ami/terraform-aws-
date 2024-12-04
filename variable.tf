@@ -31,9 +31,7 @@ variable "bucket_tags1" {}
 # Variable for S3 bucket name
 variable "bucket_name2" {}
 # Variable for tags2
-
 variable "bucket_tags2" {}
-variable "Env_tag" {}
 variable "ami" {}
 variable "instance_type" {}
 variable "key_name" {}
